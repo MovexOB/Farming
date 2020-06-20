@@ -186,6 +186,8 @@ if (message.content === prefix+'fast') {
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`yo bitch you can fuck me if you wanna to`)
+         message.channel.send(`dyler is the best `)
+         message.channel.send(`why are you running ?`)
           .then(m => {
             count++;
           })
@@ -200,6 +202,8 @@ if (message.content === prefix+'fast') {
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`yo bitch you can fuck me if you wanna to`)
+         message.channel.send(`dyler is the best `)
+         message.channel.send(`why are you running ?`)
           .then(m => {
             count++;
           })
@@ -214,6 +218,8 @@ if (message.content === prefix+'fast') {
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`yo bitch you can fuck me if you wanna to`)
+         message.channel.send(`dyler is the best `)
+         message.channel.send(`why are you running ?`)
           .then(m => {
             count++;
           })
@@ -228,6 +234,8 @@ if (message.content === prefix+'fast') {
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`yo bitch you can fuck me if you wanna to`)
+         message.channel.send(`dyler is the best `)
+         message.channel.send(`why are you running ?`)
           .then(m => {
             count++;
           })
@@ -242,6 +250,8 @@ if (message.content === prefix+'fast') {
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`yo bitch you can fuck me if you wanna to`)
+         message.channel.send(`dyler is the best `)
+         message.channel.send(`why are you running ?`)
           .then(m => {
             count++;
           })
@@ -256,6 +266,8 @@ if (message.content === prefix+'fast') {
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`yo bitch you can fuck me if you wanna to`)
+         message.channel.send(`dyler is the best `)
+         message.channel.send(`why are you running ?`)
           .then(m => {
             count++;
           })
